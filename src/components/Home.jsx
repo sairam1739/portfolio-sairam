@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../pdf/sairesume.pdf";
+import pdf from "../pdf/sairesume1.pdf";
 import mypropic from "./pp/profilepic.jpg";
 import mypropic2 from "./pp/file2.png";
 import Typed from "typed.js";
