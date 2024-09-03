@@ -1,0 +1,18 @@
+[
+    {
+        "key":1,
+        "title": "Insurance Cost Prediction",
+        "imageSrc":"project/Robot_thinking.jpg",
+        "description":"Machine Learning",
+        "demo":"https://github.com/sairam1739/ML_project_Insurance_cost_prediction",
+        "source":"https://github.com/sairam1739/ML_project_Insurance_cost_prediction"
+    }, 
+    {
+        "key":2,
+        "title": "ShopHub",
+        "imageSrc":"project/shophub_logo.png",
+        "description":"MERN stack E-commerce ",
+        "demo":"https://mern-shophub.onrender.com",
+        "source":"https://github.com/sairam1739/MERN-shophub"
+    }
+]
