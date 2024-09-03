@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../pdf/sairesume1.pdf";
+import pdf from "../pdf/sairamresumeutd.pdf";
 import mypropic from "./pp/profilepic.jpg";
 import mypropic2 from "./pp/file2.png";
 import Typed from "typed.js";
@@ -41,7 +41,7 @@ const Home = () => {
             <h1 ref={typedRef}> .</h1>
             <a
               href={pdf}
-              download="sairesume1.pdf"
+              download="sairamresumeutd.pdf"
               className="btn btn-outline-warning mt-5 mb-3"
             >
               Download Resume
